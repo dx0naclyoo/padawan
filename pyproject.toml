@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "padawan"
+version = "0.1.0"
+description = ""
+authors = ["dx0naclyoo <konyzhenkov.danil@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+httpx = "^0.28.1"
+requests = "^2.32.3"
+cloudscraper = "^1.2.71"
+fake-useragent = "^2.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
