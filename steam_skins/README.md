@@ -67,7 +67,7 @@
 
 Как это выглядит в браузере:
 * **Фронтенд:** https://flourishing-alpaca-c7e241.netlify.app/
-* **Бэкенд:** https://padawan-skins.onrender.com/docs
+* **Бэкенд для примера:** https://padawan-skins.onrender.com/docs
 
 ---
 
